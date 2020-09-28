@@ -1,0 +1,10 @@
+https://medium.com/swlh/how-to-host-your-next-js-applicat
+
+
+npm build
+or 
+yarn build
+-----------------
+npm start
+or
+yarn start
